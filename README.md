@@ -1,16 +1,25 @@
-## Hi there 👋
+Aremomhe Remy — Frontend & Website Developer
 
-<!--
-**semmie-max/semmie-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web products people actually use. Clean interfaces, real functionality, shipped fast.
 
-Here are some ideas to get you started:
+My Projects -
+| My Portolio | Personal portfolio website | Shipped |
+| Student Timmer | Focus timer built for students | Shipped |
+| E-Commerce Website | Full online store with cart and checkout | Shipped |
+| CV Builder | Tool to generate and export CVs | In progress |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My Tech Stack -
+React · JavaScript · HTML5 · CSS3 · Bootstrap · MySql · Git · 
+
+
+Currently
+  Wrapping up a CV builder, focused on clean UI/UX, export functionality, and keeping it fast. Always pushing toward scalable frontend architecture that holds up at scale.
+
+
+Connect With Me
+
+semmie162@gmail.com · aremomhe-remy.pxxl.click · @Rv3myy - on twitter
+
+
+ I write code and solve problems!.
