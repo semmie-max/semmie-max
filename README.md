@@ -14,7 +14,7 @@ React · JavaScript · HTML5 · CSS3 · Bootstrap · MySql · Git ·
 
 
 Currently
-  Wrapping up a CV builder, focused on clean UI/UX, export functionality, and keeping it fast. Always pushing toward scalable frontend architecture that holds up at scale.
+  Wrapping up a chatbot that breaks down complex things for better understanding. It accepts any file and explains the content simply, focused on clean UI/UX, export functionality, and keeping it fast. Always pushing toward scalable frontend architecture that holds up at scale.
 
 
 Connect With Me
