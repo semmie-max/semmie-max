@@ -1,4 +1,4 @@
-Aremomhe Remy — Frontend & Website Developer
+Aremomhe Remy - Frontend & Website Developer
 
 I build web products people actually use. Clean interfaces, real functionality, shipped fast.
 
