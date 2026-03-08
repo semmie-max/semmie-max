@@ -13,13 +13,12 @@ My Tech Stack -
 React · JavaScript · HTML5 · CSS3 · Bootstrap · MySql · Git · 
 
 
-Currently
-  Wrapping up a chatbot that breaks down complex things for better understanding. It accepts any file and explains the content simply, focused on clean UI/UX, export functionality, and keeping it fast. Always pushing toward scalable frontend architecture that holds up at scale.
+Currently building a chatbot that breaks down complex documents into plain, easy-to-understand language. It accepts any file type and explains the content simply, with a focus on clean UI/UX, multi-format file support, and performance. Continuously adding new features while maintaining a scalable frontend architecture that holds up at scale.
 
 
 Connect With Me
 
-semmie162@gmail.com · aremomhe-remy.pxxl.click · @Rv3myy - on twitter
+semmie162@gmail.com · https://remy-portfolio.pxxl.click · @Rv3myy - on twitter
 
 
  I write code and solve problems!.
