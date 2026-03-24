@@ -15,7 +15,7 @@ React · JavaScript · HTML5 · CSS3 · Bootstrap · MySql · Git ·
 
 Currently building a chatbot that breaks down complex documents into plain, easy-to-understand language. It accepts any file type and explains the content simply, with a focus on clean UI/UX, multi-format file support, and performance. Continuously adding new features while maintaining a scalable frontend architecture that holds up at scale.
 
-I designed and built the official website for STAYWOKE
+Built the official website for StayWoke Clothing: staywokeluxury.shop
 
 
 Connect With Me
